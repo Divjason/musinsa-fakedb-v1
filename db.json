@@ -8,13 +8,7 @@
       "reviews": 694
     }
   },
-  "categories": [
-    "기타",
-    "니트",
-    "아우터",
-    "팬츠",
-    "후디/스웨트"
-  ],
+  "categories": ["기타", "니트", "아우터", "팬츠", "후디/스웨트"],
   "products": [
     {
       "id": "fae2e528e7",
@@ -121,9 +115,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -283,9 +275,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -298,7 +288,7 @@
       "name": "뮤트 로고 후드 집업_3COLORS",
       "category": "후디/스웨트",
       "url": "https://www.musinsa.com/products/5287871",
-      "thumbnailUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20250801/5287871/5287871_17627500937647_big.jpg?w=780",
+      "thumbnailUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20250801/5287871/5287871_17742290118830_big.jpg?w=1200",
       "price": 129900,
       "salePrice": 88340,
       "discountRate": 32,
@@ -445,9 +435,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -571,9 +559,7 @@
           }
         }
       ],
-      "badges": [
-        "NEW"
-      ],
+      "badges": ["NEW"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -733,9 +719,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -895,9 +879,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -1057,9 +1039,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -1219,9 +1199,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -1381,9 +1359,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -1543,9 +1519,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -1705,9 +1679,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -1867,9 +1839,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -2029,9 +1999,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -2094,9 +2062,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -2256,9 +2222,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -2418,9 +2382,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -2580,9 +2542,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -2742,9 +2702,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -2892,9 +2850,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -2913,10 +2869,7 @@
       "discountRate": 10,
       "rating": 5.0,
       "reviewCount": 1,
-      "tags": [
-        "싸이즈",
-        "스타일"
-      ],
+      "tags": ["싸이즈", "스타일"],
       "images": [
         "https://image.msscdn.net/thumbnails/images/goods_img/20260107/5875549/5875549_17677741314988_big.jpg?w=780",
         "https://image.msscdn.net/thumbnails/images/goods_img/20260107/5875549/5875549_17677741314988_big.jpg?w=780&img=2",
@@ -2938,9 +2891,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -3015,9 +2966,7 @@
           }
         }
       ],
-      "badges": [
-        "NEW"
-      ],
+      "badges": ["NEW"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -3177,9 +3126,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -3339,9 +3286,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -3501,9 +3446,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -3579,9 +3522,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -3693,9 +3634,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -3855,9 +3794,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -3957,9 +3894,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -3978,10 +3913,7 @@
       "discountRate": 0,
       "rating": 5.0,
       "reviewCount": 2,
-      "tags": [
-        "기모",
-        "약간"
-      ],
+      "tags": ["기모", "약간"],
       "images": [
         "https://image.msscdn.net/thumbnails/images/goods_img/20251111/5711835/5711835_17628387813365_big.jpg?w=780",
         "https://image.msscdn.net/thumbnails/images/goods_img/20251111/5711835/5711835_17628387813365_big.jpg?w=780&img=2",
@@ -4015,9 +3947,7 @@
           }
         }
       ],
-      "badges": [
-        "NEW"
-      ],
+      "badges": ["NEW"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -4177,9 +4107,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -4339,9 +4267,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -4501,9 +4427,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -4603,9 +4527,7 @@
           }
         }
       ],
-      "badges": [
-        "NEW"
-      ],
+      "badges": ["NEW"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -4765,9 +4687,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -4879,9 +4799,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -5041,9 +4959,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -5203,9 +5119,7 @@
           }
         }
       ],
-      "badges": [
-        "NEW"
-      ],
+      "badges": ["NEW"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -5281,9 +5195,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -5443,9 +5355,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -5605,9 +5515,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -5767,9 +5675,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -5929,9 +5835,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -6091,9 +5995,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -6112,14 +6014,7 @@
       "discountRate": 35,
       "rating": 4.0,
       "reviewCount": 2,
-      "tags": [
-        "타임",
-        "세일",
-        "절기",
-        "길이",
-        "웨이",
-        "지퍼"
-      ],
+      "tags": ["타임", "세일", "절기", "길이", "웨이", "지퍼"],
       "images": [
         "https://image.msscdn.net/thumbnails/images/goods_img/20260127/5945204/5945204_17696892481481_big.jpg?w=780",
         "https://image.msscdn.net/thumbnails/images/goods_img/20260127/5945204/5945204_17696892481481_big.jpg?w=780&img=2",
@@ -6153,9 +6048,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -6315,9 +6208,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -6336,16 +6227,7 @@
       "discountRate": 60,
       "rating": 5.0,
       "reviewCount": 3,
-      "tags": [
-        "사진",
-        "고민",
-        "걱정",
-        "화면",
-        "유사",
-        "슬림",
-        "나중",
-        "선물"
-      ],
+      "tags": ["사진", "고민", "걱정", "화면", "유사", "슬림", "나중", "선물"],
       "images": [
         "https://image.msscdn.net/thumbnails/images/goods_img/20230830/3515355/3515355_17470971539219_big.jpg?w=780",
         "https://image.msscdn.net/thumbnails/images/goods_img/20230830/3515355/3515355_17470971539219_big.jpg?w=780&img=2",
@@ -6391,9 +6273,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -6493,9 +6373,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -6595,9 +6473,7 @@
           }
         }
       ],
-      "badges": [
-        "NEW"
-      ],
+      "badges": ["NEW"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -6697,9 +6573,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -6859,9 +6733,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -7021,9 +6893,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -7183,9 +7053,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -7345,9 +7213,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -7507,9 +7373,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -7669,9 +7533,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -7747,9 +7609,7 @@
           }
         }
       ],
-      "badges": [
-        "NEW"
-      ],
+      "badges": ["NEW"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -7909,9 +7769,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -8071,9 +7929,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -8233,9 +8089,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -8335,9 +8189,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -8497,9 +8349,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -8659,9 +8509,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -8821,9 +8669,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -8983,9 +8829,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -9145,9 +8989,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -9307,9 +9149,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -9328,13 +9168,7 @@
       "discountRate": 30,
       "rating": 5.0,
       "reviewCount": 4,
-      "tags": [
-        "코디",
-        "두께",
-        "즣아요",
-        "최애",
-        "브랜드"
-      ],
+      "tags": ["코디", "두께", "즣아요", "최애", "브랜드"],
       "images": [
         "https://image.msscdn.net/thumbnails/images/goods_img/20250910/5438141/5438141_17575532563316_big.jpg?w=780",
         "https://image.msscdn.net/thumbnails/images/goods_img/20250910/5438141/5438141_17575532563316_big.jpg?w=780&img=2",
@@ -9392,9 +9226,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -9554,9 +9386,7 @@
           }
         }
       ],
-      "badges": [
-        "NEW"
-      ],
+      "badges": ["NEW"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -9716,9 +9546,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -9878,9 +9706,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -10040,9 +9866,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -10202,9 +10026,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -10314,9 +10136,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -10476,9 +10296,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -10638,9 +10456,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -10703,9 +10519,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -10865,9 +10679,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -10967,9 +10779,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -11129,9 +10939,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -11291,9 +11099,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -11345,9 +11151,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -11507,9 +11311,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -11669,9 +11471,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
@@ -11831,9 +11631,7 @@
           }
         }
       ],
-      "badges": [
-        "SALE"
-      ],
+      "badges": ["SALE"],
       "shipping": {
         "type": "STANDARD",
         "etaDays": 2,
